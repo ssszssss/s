@@ -1,7 +1,7 @@
 {
     "Hypper": {
-        "Key": "extractive",
-        "KeyLink": "https://t.me/destructioxxx/9"
+        "Key": "viewy",
+        "KeyLink": "https://t.me/destructioxxx/10"
     },
     "ChickenGun": {
         "Key": "extractive",
