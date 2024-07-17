@@ -1,5 +1,4 @@
-
-    {
+{
 "Hypper": { 
 "Key": "Cool", 
 "KeyLink": "Silka" 
@@ -10,4 +9,3 @@
 "KeyLink": "Silka" 
 }
 }
-    
