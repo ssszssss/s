@@ -1,11 +1,10 @@
 {
-"Hypper": { 
-"Key": "Cool", 
-"KeyLink": "Silka" 
-},
-
-"ChickenGun": { 
-"Key": "Cool", 
-"KeyLink": "Silka" 
-}
+    "Hypper": {
+        "Key": "washier",
+        "KeyLink": "Silka"
+    },
+    "ChickenGun": {
+        "Key": "Cool",
+        "KeyLink": "Silka"
+    }
 }
