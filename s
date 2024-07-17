@@ -1,7 +1,7 @@
 {
     "Hypper": {
-        "Key": "fieldsman",
-        "KeyLink": "Sssssa"
+        "Key": "undemocratised",
+        "KeyLink": "https://t.me/destructioxxx/7"
     },
     "ChickenGun": {
         "Key": "fieldsman",
