@@ -1,6 +1,6 @@
 {
     "Hypper": {
-        "Key": "peugeot",
+        "Key": "compiles",
         "KeyLink": "Sssssa"
     },
     "ChickenGun": {
