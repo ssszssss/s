@@ -1,6 +1,6 @@
 {
     "Hypper": {
-        "Key": "nonslip",
+        "Key": "moonwalk",
         "KeyLink": "Sssssa"
     },
     "ChickenGun": {
