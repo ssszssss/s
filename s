@@ -1,6 +1,6 @@
 {
     "Hypper": {
-        "Key": "moonwalk",
+        "Key": "peugeot",
         "KeyLink": "Sssssa"
     },
     "ChickenGun": {
