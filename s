@@ -1,7 +1,7 @@
 {
     "Hypper": {
-        "Key": "washier",
-        "KeyLink": "Silka"
+        "Key": "unsardonically",
+        "KeyLink": "Sssssa"
     },
     "ChickenGun": {
         "Key": "Cool",
