@@ -1,7 +1,7 @@
 {
     "Hypper": {
-        "Key": "sciamachy",
-        "KeyLink": "https://t.me/hacklandy/155"
+        "Key": "croker",
+        "KeyLink": "https://ify.ac/1Ivb"
     },
     "ChickenGun": {
         "Key": "sciamachy",
