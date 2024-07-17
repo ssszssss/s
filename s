@@ -1,6 +1,6 @@
 {
     "Hypper": {
-        "Key": "simples",
+        "Key": "playfellowship",
         "KeyLink": "Sssssa"
     },
     "ChickenGun": {
