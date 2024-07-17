@@ -4,7 +4,7 @@
         "KeyLink": "Sssssa"
     },
     "ChickenGun": {
-        "Key": "Cool",
-        "KeyLink": "Silka"
+        "Key": "fieldsman",
+        "KeyLink": "Sssssa"
     }
 }
