@@ -1,7 +1,7 @@
 {
     "Hypper": {
-        "Key": "vassar",
-        "KeyLink": "https://ify.ac/1Ivj"
+        "Key": "fustee",
+        "KeyLink": "httpjsis"
     },
     "ChickenGun": {
         "Key": "vassar",
