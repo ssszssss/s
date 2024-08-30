@@ -1,6 +1,6 @@
 {
     "Keys": {
-        "Key": "reshine",
-        "KeyLink": "https://upfiles.com/eJJUO3YE"
+        "Key": "oxyphenyl",
+        "KeyLink": "https://hacklandy.github.io/g3tk3y?key=b3h5cGhlbnls"
     }
 }
